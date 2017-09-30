@@ -1,2 +1,2 @@
 # inventory-management
-Web application for inventory control of musical groups
+Web application for inventory control
